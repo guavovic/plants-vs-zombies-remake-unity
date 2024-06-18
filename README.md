@@ -1,4 +1,4 @@
-# Plants vs Zombies Recriação em Unity
+# Unity Plants VS zombies Recreation
 Este projeto visa recriar o espírito e a jogabilidade do clássico "Plants vs. Zombies" utilizando Unity.
 
 ## Funcionalidades Planejadas
