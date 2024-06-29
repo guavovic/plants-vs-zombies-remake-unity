@@ -14,7 +14,7 @@ Este projeto visa recriar o [Plants vs. Zombies (2010)](https://www.ea.com/pt-br
 git clone https://github.com/guavovic/unity-plants-vs-zombies-recreation.git 
 ```
 2. Abra o projeto na Unity *([Unity](https://unity.com/pt) 2021.3.x ou superior)*.
-3. Execute o jogo no modo de visualização para testar suas alterações.
+3. Execute o jogo na tela de Game.
 
 ## Contribuições
 Se você deseja colaborar com o desenvolvimento deste projeto de recriação, sinta-se à vontade para enviar pull requests.
