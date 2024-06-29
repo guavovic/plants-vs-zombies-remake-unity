@@ -1,4 +1,4 @@
-# Unity Plants VS zombies Recreation
+# Plants VS zombies Recreation (UNITY) (C#)
 Este projeto visa recriar o [Plants vs. Zombies (2010)](https://www.ea.com/pt-br/games/plants-vs-zombies/plants-vs-zombies) lançado para PC, utilizando a engine [Unity](https://unity.com/pt).
 
 ## Funcionalidades Planejadas
