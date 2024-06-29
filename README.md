@@ -1,11 +1,8 @@
 # Plants VS zombies Recreation (UNITY) (C#)
-Este projeto visa recriar o [Plants vs. Zombies (2010)](https://www.ea.com/pt-br/games/plants-vs-zombies/plants-vs-zombies) lançado para PC, utilizando a engine [Unity](https://unity.com/pt).
+Este projeto visa recriar o [Plants vs. Zombies (2010)](https://www.ea.com/pt-br/games/plants-vs-zombies/plants-vs-zombies) lançado para PC, utilizando a [Unity](https://unity.com/pt).
 
-## Funcionalidades Planejadas
-* Sistema de Defesa Criativo: Explore novas formas de defender seu jardim contra hordas de zumbis.
-* Plantas e Zumbis Únicos: Crie novas plantas com habilidades especiais e zumbis com comportamentos desafiadores.
-* Modos de Jogo Inovadores: Introduza modos de jogo únicos que ampliem a experiência além do original.
-* Gráficos e Áudio: Apresente gráficos modernos e uma trilha sonora envolvente para uma experiência imersiva.
+> [!NOTE]
+> Ainda estou no começo do protótipo, irei refazer tudo do zero novamente.
 
 ## Requisitos de Desenvolvimento
 * .NET 6.x ou superior.
@@ -25,5 +22,5 @@ Se você deseja colaborar com o desenvolvimento deste projeto de recriação, si
 ## Licença
 Este projeto está licenciado sob a [LICENSE.md](https://github.com/guavovic/unity-plants-vs-zombies-recreation/blob/main/LICENSE).
 
-> [!NOTE]
+> [!IMPORTANT]
 > Este projeto foi desenvolvido como parte de aprendizado pessoal.
